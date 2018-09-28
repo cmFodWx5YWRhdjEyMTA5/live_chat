@@ -1,0 +1,102 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-googleplus",
+        "scope": null,
+        "escapedName": "cordova-plugin-googleplus",
+        "name": "cordova-plugin-googleplus",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\apps\\live_chat"
+    ]
+  ],
+  "_from": "cordova-plugin-googleplus@latest",
+  "_hasShrinkwrap": false,
+  "_id": "cordova-plugin-googleplus@5.3.2",
+  "_inCache": true,
+  "_location": "/cordova-plugin-googleplus",
+  "_nodeVersion": "8.11.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-googleplus_5.3.2_1537712040883_0.9173817370040769"
+  },
+  "_npmUser": {
+    "name": "eddyverbruggen",
+    "email": "eddyverbruggen@gmail.com"
+  },
+  "_npmVersion": "5.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-googleplus",
+    "scope": null,
+    "escapedName": "cordova-plugin-googleplus",
+    "name": "cordova-plugin-googleplus",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-googleplus/-/cordova-plugin-googleplus-5.3.2.tgz",
+  "_shasum": "83bc80dc2b6e58c991e093661af655c52b9fa385",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-googleplus",
+  "_where": "D:\\apps\\live_chat",
+  "cordova_name": "Google SignIn",
+  "dependencies": {},
+  "description": "Use your Google account to authenticate with the app.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-kpaNypLOjbZtexJ4J612uwAJaeD6BfWXqHOwIP35gHum4ipqJkE3NkE7eUyEJLvxk626rTC39ZLZHsUszPBe8w==",
+    "shasum": "83bc80dc2b6e58c991e093661af655c52b9fa385",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-googleplus/-/cordova-plugin-googleplus-5.3.2.tgz",
+    "fileCount": 29,
+    "unpackedSize": 13814220,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbp5+pCRA9TVsSAnZWagAAZvEP/jn45fKYCXFdAraSfHU4\njKBDAPiHAITEwLDpXFHUjGUBC2pECFG4++XzSzuHnT1AIOotCLUvnfkn27R7\nVpAoClz7GQqaQoNQNeuRObqz3We0r62IES1sPCnJksvkmbmNQvCeCvi/ZpFa\nkdHvKnGCorYFDMzHvAMlov7wLebB0i6dfjRM/3O4L726s/5AcNpRiT/9LW4G\nNoowxtNvwFJyjGu0SzSBZ0FopFoMbUZz4Uz18uQnU2DCVL1zAAbwHC/EpEtm\nq/C7tsSZl65b0Lj955N0FC0IIRfKfDLXMd2/XU9WNawBJ8eH2wji5srFhW6L\nWfhKKvgYZ+B1HFZ/nYwAG548VPTS1LGQzgLIndNrWjBLuMf9qplTe/UMzn5X\nFX/BZLMwb3SMp7AZntN2EAQyvG4tt8ZOa2Zr11kgSLy+Q16x5R64bQUzrmK4\n42lDZRTVtioUesBjaxyjMjisCG5hX0D1b5v62TxVdDPI0Dd2pDAjkz0T8zbL\nBx4mQdpEQSYgDMv1JpbyoC8a6oSBlzFTByTrf2q8GK64e6jsN9VU95eqB4Yj\nBOrR5ZKBGQlLfKdhFAqy0z5eSSUBRLD34ULdPOG7nHQUngJsvoK7LOKAlU5h\ntE5w0iHl3brgKefLXevmtgUEsso7Yzf9nM+oUzPgMnutES+RqQ90URFHBQ3/\nYuZ2\r\n=qQry\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ],
+  "gitHead": "b3bd4adae7cda95ed8466c2c8b7cd5e79286f91a",
+  "issue": "https://github.com/EddyVerbruggen/cordova-plugin-googleplus/issues",
+  "keywords": [
+    "Google",
+    "Google SignIn",
+    "Google Sign In",
+    "GoogleSignIn",
+    "Google Login",
+    "Google Plus",
+    "Login",
+    "OAuth",
+    "Identity",
+    "Authentication",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "eddyverbruggen",
+      "email": "eddyverbruggen@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-googleplus",
+  "optionalDependencies": {},
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "readme": "ERROR: No README data found!",
+  "repo": "https://github.com/EddyVerbruggen/cordova-plugin-googleplus.git",
+  "version": "5.3.2"
+}
